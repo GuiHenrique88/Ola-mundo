@@ -3,4 +3,4 @@
  @gustavo-guanabara
 
 
-essa linha eu adicionei,  diretamente no site.
+essa linha eu adicionei diretamente no site.
