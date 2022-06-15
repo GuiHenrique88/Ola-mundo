@@ -1,2 +1,3 @@
-# Ola-mundo
- primeiro repositorio do git e github
+# Olá, mundo!
+ primeiro repositorio do curso do git e github
+ @gustavo-guanabara
